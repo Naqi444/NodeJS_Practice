@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "proj_jwtPrivateKey",
+    "db":"proj_db"
+}
